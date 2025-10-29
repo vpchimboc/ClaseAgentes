@@ -1,6 +1,8 @@
 """
-Aplicación Streamlit: Agentes Inteligentes y Resolución de Problemas
-Presentación interactiva para estudiantes universitarios
+Institto Tecnológico Superior del Azuay
+Asignatura: Inteligencia Artificial
+Unidad 2: Agentes Inteligentes y Resolución de Problemas
+Mgtr. Verónica Chimbo
 """
 
 import streamlit as st
@@ -1049,6 +1051,6 @@ st.divider()
 st.markdown("""
 <div style="text-align: center; color: gray; font-size: 12px; margin-top: 30px;">
     <p>Presentación Interactiva: Agentes Inteligentes y Resolución de Problemas</p>
-    <p>Diseñada para estudiantes universitarios | Creada con Streamlit</p>
+    <p>Asignatura: Inteligencia Artificial | TDS</p>
 </div>
 """, unsafe_allow_html=True)
