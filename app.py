@@ -1,8 +1,9 @@
 """
-Institto Tecnológico Superior del Azuay
+Institto Tecnológico Superior del Azuay con Condición de Universitario
 Asignatura: Inteligencia Artificial
 Unidad 2: Agentes Inteligentes y Resolución de Problemas
 Mgtr. Verónica Chimbo
+
 """
 
 import streamlit as st
